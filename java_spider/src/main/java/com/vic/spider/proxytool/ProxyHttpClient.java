@@ -39,7 +39,7 @@ public class ProxyHttpClient extends AbstractHttpClient {
     private void initThreadPool() {
         //线程通过线程工厂创建，这样每个线程都会有名字，以便于
         proxyDoloadThreadExector = new ThreadPoolExecutor(100, 100, 0L, TimeUnit.SECONDS,
-                new LinkedBlockingQueue<Runnable>(1000),
+                new LinkedBlockingQueue<Runnable>(100),
                 new ThreadFactory() {
                     public Thread newThread(Runnable r) {
                         return new Thread(r, "proxyDoloadThreadExector" + r.hashCode());
@@ -47,7 +47,7 @@ public class ProxyHttpClient extends AbstractHttpClient {
                 });
 
         proxyProxyTestExector = new ThreadPoolExecutor(100, 100, 0L, TimeUnit.SECONDS,
-                new LinkedBlockingQueue<Runnable>(),
+                new LinkedBlockingQueue<Runnable>(100),
                 new ThreadFactory() {
                     public Thread newThread(Runnable r) {
                         return new Thread(r, "proxyProxyTestExector" + r.hashCode());

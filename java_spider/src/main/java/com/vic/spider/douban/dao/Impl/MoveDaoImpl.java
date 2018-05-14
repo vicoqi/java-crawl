@@ -42,7 +42,8 @@ public class MoveDaoImpl extends BaseDaoImpl<Move> implements IMoveDao {
 
     public void insertList(List<Move> moveList) {
         for (Move move : moveList) {
-            inserSelective(move);
+//            inserSelective(move);
+        	logger.debug("**-*-*-*-*-*-*\r\n"+move.toString());
         }
     }
 
@@ -56,8 +57,9 @@ public class MoveDaoImpl extends BaseDaoImpl<Move> implements IMoveDao {
         SqlSession session = MyBatiesUtils.getSqlSession(true);
         try {
             MoveMapper moveMapper = session.getMapper(MoveMapper.class);
-            moveMapper.updateByPrimaryKey(move);
-            session.commit();
+//            moveMapper.updateByPrimaryKey(move);
+//            session.commit();
+            logger.debug(move.toString());
         } catch (Exception e) {
             logger.error(e.getMessage(), e);
             session.rollback();

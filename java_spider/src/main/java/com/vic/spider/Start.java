@@ -7,8 +7,10 @@ import com.vic.spider.common.config.CommonConfig;
 import com.vic.spider.douban.DoubanHttpClient;
 import com.vic.spider.proxytool.ProxyHttpClient;
 
+
+
 public class Start {
-	private static Logger logger = LoggerFactory.getLogger(StartClass.class);
+	private static Logger logger = LoggerFactory.getLogger(Start.class);
 	public static void main(String[] args) {
 	        ProxyHttpClient.getInstance().startProxy();
 	        try {

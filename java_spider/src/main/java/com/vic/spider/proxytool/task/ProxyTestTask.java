@@ -39,12 +39,12 @@ public class ProxyTestTask implements Runnable {
                     "  executing request " + page.getUrl()  + " response statusCode:" + page.getStatusCode();
 
             if (page == null || page.getStatusCode() != 200) {
-//                logger.warn("该代理不可用：" + logStr);
+                logger.warn("该代理不可用：" + logStr);
                 return;
             }
             if (page.getStatusCode() == 200) {
                 ProxyPool.proxyQueue.add(proxy);
-//                logger.debug(proxy.getProxyStr() + "-----代理可用-----");
+                logger.debug(proxy.getProxyStr() + "-----代理可用-----");
 //                logger.debug(proxy.toString() + "--------" + page.toString());
                 ProxyPool.lock.writeLock().lock();
                 ProxyPool.proxySet.add(proxy);
