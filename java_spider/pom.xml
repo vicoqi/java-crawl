@@ -4,6 +4,17 @@
   <artifactId>java_spider</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  
+  
+  <!-- 使用aliyun镜像 -->
+    <repositories>
+        <repository>
+            <id>aliyun</id>
+            <name>aliyun</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
+  
   <dependencies>
 
 		<dependency>
@@ -85,7 +96,6 @@
   
   
   <build>
-		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
 			<!-- 配置加入jetty服务器，开发时我们一般使用jetty服务器 -->
 			
