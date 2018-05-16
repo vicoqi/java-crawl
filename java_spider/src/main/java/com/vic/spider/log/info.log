@@ -17837,3 +17837,694 @@ INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.
 INFO - URL=https://movie.douban.com/j/chart/top_list_count?type=18&interval_id=60:50 重试次数=1--开始编号/百分比：0/60---重试代理：27.42.186.211:9797--datasource:xicidaili---failureTimes:2---代理失败/成功次数：2/0
 INFO - retryTime:2currentPersent:60
 INFO - 重试：currentPersent=80--- 减去1070
+WARN - 该代理不可用：proxyProxyTestExector5602395 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector21017147 106.120.175.76:55336--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector5493951 101.1.27.82:80--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=fcd06f72-cf7f-4de89d0ba2ac9e626e5d1aef4d1ce7b22ffe; Expires=1526454295; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454295
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=06f81c89-0eab-4f890bb9d5562acfec7c0302e2b4ca961ea8; Expires=1526454316; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454316
+WARN - 该代理不可用：proxyProxyTestExector19088493 42.62.51.43:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector4819769 203.174.112.13:3128--datasource:xicidaili---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=38daa680-4514-4a9e17cb84d040725dc3845bd2dd22e041bc; Expires=1526454347; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454347
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=89d2ce79-b618-4ef90e50b0f38e0844ef635364047725922b; Expires=1526454376; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454376
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=7caf78fd-4a2e-42c5ec5d1e0b22deb26f0fdfc2eaf0628cb2; Expires=1526454382; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454382
+WARN - 该代理不可用：proxyProxyTestExector9594878 120.26.51.101:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.52.214.202:1080->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.52.214.202:1080->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector33059783 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.52.214.202:1080->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.52.214.202:1080->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector17846274 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector8569759 120.78.180.231:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8003100 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector448118 221.122.91.59:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector22125979 221.122.91.59:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector7245058 221.122.91.61:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector919445 221.122.91.34:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8099147 120.25.253.234:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.132.97.195:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.132.97.195:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.132.97.195:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.132.97.195:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector9122792 52.67.32.10:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector1407365 101.132.97.195:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector27839181 101.132.97.195:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://123.14.163.146:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://123.14.163.146:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.132.145.122:53281->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.132.145.122:53281->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://110.72.35.189:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://110.72.35.189:8123->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://110.72.35.189:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://110.72.35.189:8123->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector21124831 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://121.232.145.34:9000->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://121.232.145.34:9000->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector10408558 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector29761753 121.232.194.104:9000--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector9883693 101.1.27.82:80--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector7070406 106.120.175.76:55336--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=42dc3ccf-9d37-4df132153de92ba7fc02e2961b3413798e36; Expires=1526454620; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454620
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=52a9ed91-777d-446099ea0204c6f4832a53fdc7515964d037; Expires=1526454620; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454620
+WARN - 该代理不可用：proxyProxyTestExector10408558 94.74.191.52:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:409
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=a46f801f-f026-452c29036299deb027d13cd03a3cb5116a07; Expires=1526454642; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454642
+ERROR - [Ljava.lang.StackTraceElement;@19a1774
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://58.219.173.70:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://58.219.173.70:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.209.213.229:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.209.213.229:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.209.213.229:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.209.213.229:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector27803262 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector6515010 106.120.175.76:55336--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector13773263 101.1.27.82:80--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+ERROR - Connect to 222.33.192.238:8118 [/222.33.192.238] failed: connect timed out
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=ad4d1003-1e5d-41b89d2955c7ac00bd6c77c78d7f325acb0a; Expires=1526454987; Path=/; HttpOnly". Invalid 'expires' attribute: 1526454987
+WARN - 该代理不可用：proxyProxyTestExector7789886 106.14.214.94:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://106.14.214.94:8118->https://movie.douban.com:443: Software caused connection abort: recv failed
+WARN - 该代理不可用：proxyProxyTestExector1412136 120.78.185.175:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector23419564 120.78.72.22:8080--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.26.199.103:8118->https://movie.douban.com:443: Software caused connection abort: recv failed
+WARN - 该代理不可用：proxyProxyTestExector7360307 120.78.72.22:8080--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - Retrying request to {tls}->http://120.26.199.103:8118->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://106.14.214.94:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://106.14.214.94:8118->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://106.14.214.94:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector10408558 106.14.214.94:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector33024356 106.14.214.94:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector16539669 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.26.199.103:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.26.199.103:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector13896146 120.26.199.103:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector19863079 221.122.91.66:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://117.90.7.9:9000->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector5602395 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector25470934 101.1.27.82:80--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+ERROR - null
+ERROR - null
+ERROR - null
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=6d78b9d5-d634-4ff881327b5ad5665029a818802ebb13119e; Expires=1526455057; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455057
+WARN - 该代理不可用：proxyProxyTestExector19185231 221.122.91.60:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=744dfcf6-595a-4b0f16def6b1bd9455d902e47cc40b25b881; Expires=1526455065; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455065
+WARN - 该代理不可用：proxyProxyTestExector29088896 94.74.191.52:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:409
+ERROR - Connect to 58.222.181.140:3128 [/58.222.181.140] failed: connect timed out
+WARN - 该代理不可用：proxyProxyTestExector25013849 182.18.13.149:53281--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+ERROR - Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://114.239.121.102:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://114.239.121.102:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=d9e0249c-cf5c-48224c4bb1e3653b2841ac82c3c665d572ac; Expires=1526455085; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455085
+WARN - 该代理不可用：proxyProxyTestExector717441 106.14.214.94:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector24377391 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector28261024 120.78.185.175:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=c2e827da-281d-49669dc9f84a9e716cd4442db887f859be30; Expires=1526455086; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455086
+WARN - 该代理不可用：proxyProxyTestExector27389188 58.247.46.123:8088--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+ERROR - Connect to 27.40.136.209:61234 [/27.40.136.209] failed: connect timed out
+ERROR - Connect to 114.228.73.182:6666 [/114.228.73.182] failed: connect timed out
+ERROR - Connect to 180.160.121.48:8118 [/180.160.121.48] failed: Connection refused: connect
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=1cdc48c5-039a-4013ca351eaa7d0a7bce427e19b5da3d709d; Expires=1526455112; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455112
+WARN - 该代理不可用：proxyProxyTestExector10364428 109.173.9.44:8080--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+ERROR - Connect to 180.155.129.14:28705 [/180.155.129.14] failed: connect timed out
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://202.129.41.91:8081->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://202.129.41.91:8081->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=3aee18c9-748c-40ab9e54788d8a2591717e32ea0c03002679; Expires=1526455150; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455150
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=8d92615e-1433-40320a8be0ed05ccd8e2f79337ab09c9f3ca; Expires=1526455153; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455153
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://118.122.92.252:37901->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.63.35:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.133.60:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector1407365 101.132.97.195:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector28223202 101.132.97.195:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - 该代理不可用：proxyProxyTestExector25604810 114.67.228.22:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector9122792 52.67.32.10:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.25.253.234:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector25749752 120.25.253.234:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=2d4ca726-66c7-4d29308a57965f00add9f070d149d05491f9; Expires=1526455162; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455162
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://120.26.51.101:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector32185789 120.26.51.101:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://171.39.41.133:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://171.39.41.133:8123->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=024913f9-5fa7-41ed2b37bbb3fc128bf7cfb28734ebace5b0; Expires=1526455176; Path=/; HttpOnly". Invalid 'expires' attribute: 1526455176
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.69.89.110:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://222.64.128.235:9000->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://222.64.128.235:9000->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8374365 115.218.221.81:9000--datasource:kauidaili---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.ConnectionClosedException) caught when processing request to {tls}->http://103.108.47.17:8080->https://movie.douban.com:443: Premature end of Content-Length delimited message body (expected: 720; received: 0
+INFO - Retrying request to {tls}->http://103.108.47.17:8080->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector21124831 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector19542719 106.120.175.76:55336--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=c2f99785-0f7b-407db3b899f34aaa3a9d254f08fb0c415f83; Expires=1526456669; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456669
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=8c8e51ca-2a38-40017d482a6a1a2c9643c879f282b7680cbf; Expires=1526456674; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456674
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=cd3ade78-8c8f-4f8bc5fabf00a426118f25daae12134bea68; Expires=1526456689; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456689
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://125.122.169.7:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.94.114.196:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.70.18.195:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=c946d3d3-24b1-48e6d2b1166b8764337deb8cb805d31cbe19; Expires=1526456766; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456766
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.234.245.182:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.234.245.182:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.234.245.182:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.234.245.182:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector32171771 52.67.32.10:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=77e1fd14-ff42-4af84f0021df7f99200b837d329268efc88e; Expires=1526456777; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456777
+WARN - 该代理不可用：proxyProxyTestExector7938903 58.247.46.123:8088--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://171.37.162.65:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://171.37.162.65:8123->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=0fc16902-1971-4cf7808d9e15c9e4180cfeeac07bdca44884; Expires=1526456784; Path=/; HttpOnly". Invalid 'expires' attribute: 1526456784
+WARN - 该代理不可用：proxyProxyTestExector12745956 211.147.65.154:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector15567682 121.225.24.214:3128--datasource:xicidaili---failureTimes:0  executing request https://movie.douban.com response statusCode:407
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://110.73.32.53:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://110.73.32.53:8123->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=0e333358-81bf-485bfd3688294963a8f4b4cf497a6f3503f7; Expires=1526457021; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457021
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector6090251 111.8.191.146:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://218.56.132.156:8080->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://218.56.132.156:8080->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=79e541d4-e29a-47bc7f46adfa34867de248d1390fa84d23ee; Expires=1526457049; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457049
+WARN - 该代理不可用：proxyProxyTestExector7202275 60.8.42.36:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector1700126 60.8.42.36:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=b99d4a90-e435-48fceb5298fe0287071e9fc2f162bbade871; Expires=1526457063; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457063
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=74b68c63-c37e-4c2776fc4f20dd759c3ddaf4bac9dfefdc4b; Expires=1526457063; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457063
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://14.211.120.6:808->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://14.211.120.6:808->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=84f3e4cc-419b-486de3998d67528540c2604bd893fbc02e40; Expires=1526457135; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457135
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://183.128.33.174:18118->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://183.128.33.174:18118->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=579d7d37-ad55-41bea032c5a873423aabb21a4ad292dae3ee; Expires=1526457160; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457160
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://60.8.42.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://60.8.42.36:8908->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=764ba4e5-c26a-4aaf3b610386969bd34fe856dacee603daf2; Expires=1526457170; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457170
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=56d423ec-3865-4fe6600f6673c9baf795ffebc128427c7641; Expires=1526457175; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457175
+WARN - 该代理不可用：proxyProxyTestExector12487000 14.29.92.197:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+WARN - 该代理不可用：proxyProxyTestExector12487000 94.74.191.52:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:409
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=14b2ce26-d973-48334b1e72e5c6d051c775ae30267d1b71db; Expires=1526457180; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457180
+WARN - 该代理不可用：proxyProxyTestExector6768086 183.232.223.142:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=f4703f7d-94e2-46fd1b5574ca5618c2969bd3b39b1ae08e71; Expires=1526457188; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457188
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://220.180.239.244:808->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=2247be9d-497b-4b9713726a6ccb977a8de650e5677a63d43d; Expires=1526457898; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457898
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector31267377 111.23.44.155:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector10986548 111.8.191.138:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector14696272 111.8.191.146:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://175.5.46.116:808->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://175.5.46.116:808->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=301c7434-3f3d-4335234cc9d4593041007017c3730ed42a4c; Expires=1526457926; Path=/; HttpOnly". Invalid 'expires' attribute: 1526457926
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.222.169.60:53281->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.222.169.60:53281->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=2885702c-e360-48917ebede96dcfa2449e2366ef42f05dd0e; Expires=1526458813; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458813
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.23.44.155:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.146:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://111.8.191.138:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector14438982 111.23.44.155:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector11269720 111.8.191.146:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector996797 218.66.253.146:8800--datasource:xicidaili---failureTimes:0  executing request https://movie.douban.com response statusCode:407
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://119.57.112.130:8080->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://119.57.112.130:8080->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=8ac70b48-9bd9-4692f1a99570154139115631292efccc3725; Expires=1526458841; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458841
+WARN - 该代理不可用：proxyProxyTestExector27476353 60.8.42.36:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.88.82.211:9000->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://101.88.82.211:9000->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://111.40.84.73:9797->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8443349 60.8.42.36:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=c3025363-f42d-401e3a70bed6d1bd6005bad1eff81a6a2da2; Expires=1526458849; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458849
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.163.91.77:9000->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://60.163.91.77:9000->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.232.145.51:9000->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.232.145.51:9000->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector18462894 183.232.223.142:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:500
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=7d39057a-2dfa-41169425ed9686245c4fec1f6b6f6fd62d20; Expires=1526458866; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458866
+WARN - 该代理不可用：proxyProxyTestExector7282791 94.74.191.52:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:409
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=619d1c38-4e47-43f8a53d0febaaf70799b11b72612fb26106; Expires=1526458914; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458914
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://114.250.25.19:80->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=00e4878d-f931-4a12236432a7fb63efb8b72648bcfe662b6d; Expires=1526458943; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458943
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=a36cbd37-0eb7-439a21ebd179c890d70539e132a989dd3feb; Expires=1526458948; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458948
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8051031 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector10039415 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector4239751 220.177.83.166:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector16402180 182.96.85.88:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector5818380 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector7525824 120.92.102.240:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+WARN - 该代理不可用：proxyProxyTestExector31156999 120.92.119.229:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector26741880 218.66.253.144:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector32932074 218.66.253.144:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector8051031 182.96.85.88:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://220.177.83.251:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector11551219 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector17846274 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector16402180 220.177.83.251:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.210:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.204:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector15407234 111.78.3.225:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.197:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector26741880 182.96.85.88:8118--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:503
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://117.127.0.196:8080->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://182.96.85.88:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://49.83.190.68:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector2335229 120.92.119.187:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+WARN - 该代理不可用：proxyProxyTestExector15326815 120.92.119.187:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+WARN - 该代理不可用：proxyProxyTestExector11269720 120.92.119.187:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+WARN - 该代理不可用：proxyProxyTestExector24596719 120.92.119.187:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://118.249.140.143:8118->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://27.40.136.209:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=a3315f32-5872-4b06995c89eaf2dabd90f7018132a40f6c50; Expires=1526458983; Path=/; HttpOnly". Invalid 'expires' attribute: 1526458983
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.35:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.35:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://124.234.249.132:8118->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://124.234.249.132:8118->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=1bbb1c1c-7637-4a6387045448e361c315bc8e65154286a901; Expires=1526459019; Path=/; HttpOnly". Invalid 'expires' attribute: 1526459019
+WARN - 该代理不可用：proxyProxyTestExector22457822 222.92.194.150:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://222.163.28.36:8908->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.31.102.55:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.31.102.55:8123->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=f61b4a05-afe1-4a6aeec25f8089faafda7f8583ce33008b05; Expires=1526459057; Path=/; HttpOnly". Invalid 'expires' attribute: 1526459057
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://1.196.158.132:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://1.196.158.132:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://182.122.164.54:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://182.122.164.54:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://110.73.32.53:8123->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://110.73.32.53:8123->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector9638098 61.166.151.82:8080--datasource:mmiip---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=9c805132-5c49-4f586423e8c0f7593a23934ae41748ea7509; Expires=1526459089; Path=/; HttpOnly". Invalid 'expires' attribute: 1526459089
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.106.248:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://121.61.118.69:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://121.61.118.69:8908->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=36b949b9-8f7b-4ee9acd2e7b6035295eeae8f60c3d79d79ac; Expires=1526459095; Path=/; HttpOnly". Invalid 'expires' attribute: 1526459095
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://121.61.118.69:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://121.61.118.69:8908->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.83.184:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.183.231.150:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+WARN - Invalid cookie header: "Set-Cookie: yd_cookie=c37ebdb8-341b-4eec09082e4d10794a750c335ce653c5266a; Expires=1526459104; Path=/; HttpOnly". Invalid 'expires' attribute: 1526459104
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://58.22.248.11:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://58.22.248.11:8908->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://111.170.82.153:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector14438982 120.92.117.188:10010--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://121.61.89.194:61234->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector20534386 153.35.185.71:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector27476353 120.92.117.188:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://112.24.107.101:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://112.24.107.101:8908->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443
+WARN - 该代理不可用：proxyProxyTestExector18462894 153.35.185.71:80--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:403
+WARN - 该代理不可用：proxyProxyTestExector18223014 58.22.248.11:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+WARN - 该代理不可用：proxyProxyTestExector20534386 120.92.119.229:10018--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:502
+WARN - 该代理不可用：proxyProxyTestExector4518424 121.61.118.69:8908--datasource:ip66---failureTimes:0  executing request https://movie.douban.com response statusCode:400
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Software caused connection abort: recv failed
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+INFO - I/O exception (java.net.SocketException) caught when processing request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443: Connection reset
+INFO - Retrying request to {tls}->http://101.96.10.5:80->https://movie.douban.com:443
+INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443: The target server failed to respond
+INFO - Retrying request to {tls}->http://58.22.248.12:8908->https://movie.douban.com:443

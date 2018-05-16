@@ -32,6 +32,7 @@ public class DouBanInfoListPageTask implements Runnable{
     private Proxy proxy;
     private DoubanHttpClient doubanHttpClient = DoubanHttpClient.getInstance();
     private int retryTime;
+    private int DEFAULT_MAX_RETRYS = 3;//默认重试的最大次数
     private int startNumber;
 
     public DouBanInfoListPageTask(String url, boolean enableProxy) {
@@ -84,8 +85,10 @@ public class DouBanInfoListPageTask implements Runnable{
 
 
     private void retry() {
-//        logger.info("电影列表重试次数=" + retryTime + "--开始编号：" + startNumber + "---重试代理：" + proxy.getProxyStr() + "---代理失败/成功次数：" + proxy.getFailureTimes()+ "/" + proxy.getSuccessfulTimes());
-        doubanHttpClient.getDownLoadMoveListExector().execute(new DouBanInfoListPageTask(url, true, retryTime + 1, startNumber));
+    	if(retryTime<DEFAULT_MAX_RETRYS){
+//          logger.info("电影列表重试次数=" + retryTime + "--开始编号：" + startNumber + "---重试代理：" + proxy.getProxyStr() + "---代理失败/成功次数：" + proxy.getFailureTimes()+ "/" + proxy.getSuccessfulTimes());
+    		doubanHttpClient.getDownLoadMoveListExector().execute(new DouBanInfoListPageTask(url, true, retryTime + 1, startNumber));
+    	}
     }
 
     private void handle(Page page) {

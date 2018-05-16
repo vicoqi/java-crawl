@@ -29,5 +29,11 @@
 
 2.爬取电影的评论
 
+https://movie.douban.com/subject/1292052/comments?sort=new_score&status=P
+
+https://movie.douban.com/subject/1292052/comments?status=F
+
+https://movie.douban.com/subject/1292052/comments?status=P&start=20&limit=20
+
 3.分析电影的评论 	
 	现在想的是 通过分词来分析电影的评论	
