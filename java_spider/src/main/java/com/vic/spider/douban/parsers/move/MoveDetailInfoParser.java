@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
 import java.util.List;
 
 /**
- * Created by shanyao on 2018/3/14.
+ * Created by vic on 2018/3/14.
  */
 public class MoveDetailInfoParser implements IPageParser<Move> {
     public List<Move> parser(String html) {

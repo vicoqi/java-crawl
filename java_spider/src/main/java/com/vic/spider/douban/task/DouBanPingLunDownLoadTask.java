@@ -38,9 +38,17 @@ public class DouBanPingLunDownLoadTask implements Runnable{
 	@Override
 	public void run() {
 		Page pageResp = null;
+		int count = 0;
 		do{
+			try {
+                Thread.sleep(500);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
 			pageResp = getPageFromUrl(enableProxy,url);
+			count++;
 		}while(!(pageResp != null && pageResp.getStatusCode() == 200));
+		logger.info("这个url重试了多少次："+count);
 		IPageParser parser = ParserFactory.getParserClass(MoveParserPingLun.class);
         parser.parser(pageResp.getHtml());
 		
@@ -59,7 +67,8 @@ public class DouBanPingLunDownLoadTask implements Runnable{
 	           page = doubanHttpClient.getPage(url);
 	        }
 		}catch(Exception e){
-			e.printStackTrace();
+			logger.error("getPageFromUrl方法中 的队列长度："+ProxyPool.proxyQueue.size());
+			proxy.setFailureTimes(proxy.getFailureTimes() + 1);
 		}finally{
 				if (request != null) {
 	                request.releaseConnection();

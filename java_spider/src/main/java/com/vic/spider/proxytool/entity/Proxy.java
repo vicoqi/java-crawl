@@ -5,7 +5,7 @@ import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by 单耀 on 2018/1/26.
+ * Created by vic on 2018/1/26.
  * 在一些字段前面加上 transient关键字，目的是为了序列化时忽略该字段，因为序列化时这些null的字段会占用不必要的空间
  * 可以查看ArrayList源码中就是采用这种技术避免null被序列化
  *
@@ -105,4 +105,12 @@ public class Proxy implements Delayed,Serializable {
         return ip + ":" + port + "--datasource:" + dataSource + "---failureTimes:" + failureTimes;
     }
 
+	@Override
+	public String toString() {
+		return "Proxy [ip=" + ip + ", port=" + port + ", lastSuccessTime="
+				+ lastSuccessTime + ", dataSource=" + dataSource
+				+ ", timeIntervsl=" + timeIntervsl + ", failureTimes="
+				+ failureTimes + ", successfulTimes=" + successfulTimes + "]";
+	}
+    
 }

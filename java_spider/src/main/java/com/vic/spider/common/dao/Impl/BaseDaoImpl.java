@@ -5,7 +5,7 @@ import com.vic.spider.core.util.MyBatiesUtils;
 import org.apache.ibatis.session.SqlSession;
 
 /**
- * Created by shanyao on 2018/3/10.
+ * Created by vic on 2018/3/10.
  */
 public class BaseDaoImpl<T> implements IBaseDao<T>{
    /* private Class<T> entityClass;

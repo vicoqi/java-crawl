@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import java.io.InputStream;
 
 /**
- * Created by shanyao on 2018/3/10.
+ * Created by vic on 2018/3/10.
  */
 public class MyBatiesUtils {
     private static Logger logger = LoggerFactory.getLogger(MyBatiesUtils.class);

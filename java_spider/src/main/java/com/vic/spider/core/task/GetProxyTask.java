@@ -1,4 +1,4 @@
-package com.vic.spider.common.task;
+package com.vic.spider.core.task;
 
 import com.vic.spider.core.constants.ProxyConstants;
 import com.vic.spider.core.util.MyIOutils;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.concurrent.DelayQueue;
 
 /**
- * Created by shanyao on 2018/4/1.
+ * Created by vic on 2018/4/1.
  */
 public class GetProxyTask implements Runnable {
     private static Logger logger = LoggerFactory.getLogger(GetProxyTask.class);
@@ -32,6 +32,7 @@ public class GetProxyTask implements Runnable {
                         logger.info("反序列化后代理数量：" + ProxyPool.proxyQueue.size());
                     }
                 } catch (Exception e) {
+                	
                 }
             }
         }

@@ -39,17 +39,24 @@ public class ProxyTestTask implements Runnable {
                     "  executing request " + page.getUrl()  + " response statusCode:" + page.getStatusCode();
 
             if (page == null || page.getStatusCode() != 200) {
-                logger.warn("该代理不可用：" + logStr);
+//                logger.warn("该代理不可用：" + logStr);
                 return;
             }
             if (page.getStatusCode() == 200) {
-                ProxyPool.proxyQueue.add(proxy);
-                logger.debug(proxy.getProxyStr() + "-----代理可用-----");
+//                logger.debug(proxy.getProxyStr() + "-----代理可用-----");
 //                logger.debug(proxy.toString() + "--------" + page.toString());
                 ProxyPool.lock.writeLock().lock();
-                ProxyPool.proxySet.add(proxy);
+                logger.warn("*-*-*-*-*前可用队列代理数量:"+ProxyPool.proxyQueue.size());
+                logger.warn("-*-*-*-*-前可用set集合代理数量:"+ProxyPool.proxySet.size());
+                if(ProxyPool.proxySet.add(proxy)){
+                	ProxyPool.proxyQueue.add(proxy);
+                	logger.warn("*-*-*-*-*目入可用队列代理数量:"+ProxyPool.proxyQueue.size());
+                    logger.warn("-*-*-*-*-目入可用set集合代理数量:"+ProxyPool.proxySet.size());
+                }
                 ProxyPool.lock.writeLock().unlock();
-//                System.out.println("目前可用代理数量:"+ProxyPool.proxyQueue.size());
+                logger.warn("*-*-*-*-*目后可用队列代理数量:"+ProxyPool.proxyQueue.size());
+                logger.warn("-*-*-*-*-目后可用set集合代理数量:"+ProxyPool.proxySet.size());
+                
             }
         } catch (IOException e) {
 //            logger.debug("IOException", e);
@@ -58,9 +65,9 @@ public class ProxyTestTask implements Runnable {
                 request.releaseConnection();
             }
 
-            if (proxy != null && !ProxyUtil.isDiscardProxy(proxy)){
-                ProxyPool.proxyQueue.add(proxy);
-            }
+//            if (proxy != null && !ProxyUtil.isDiscardProxy(proxy)){
+//                ProxyPool.proxyQueue.add(proxy);
+//            }
         }
     }
 }

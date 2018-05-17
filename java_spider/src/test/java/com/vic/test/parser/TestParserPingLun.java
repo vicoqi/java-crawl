@@ -13,14 +13,19 @@ public class TestParserPingLun {
 		String URL = "https://movie.douban.com/subject/1292052/comments?status=P&limit=20&start=";
 		DoubanHttpClient doubanHttpClient = DoubanHttpClient.getInstance();
 	
-		ProxyHttpClient.getInstance().startProxy();
+		ProxyHttpClient.getInstance().startProxy(false);
         try {
             Thread.sleep(10000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 //		new Thread(new DouBanPingLunDownLoadTask(URL,true)).start();
-        for(int i=0;i<100;i+=20){
+        for(int i=0;i<3000;i+=20){
+        	try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         	doubanHttpClient.getDownLoadMoveListExector().execute(new DouBanPingLunDownLoadTask(URL+i,true));
         }
 

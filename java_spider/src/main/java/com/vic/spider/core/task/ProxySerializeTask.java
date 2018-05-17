@@ -19,7 +19,7 @@ public class ProxySerializeTask implements Runnable{
         while (true) {
             try {
                 //每一分钟进行一次序列化
-                Thread.sleep(10000);
+                Thread.sleep(60000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

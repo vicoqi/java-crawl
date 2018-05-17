@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by shanyao on 2018/3/10.
+ * Created by vic on 2018/3/10.
  */
 public class MoveDaoImpl extends BaseDaoImpl<Move> implements IMoveDao {
 

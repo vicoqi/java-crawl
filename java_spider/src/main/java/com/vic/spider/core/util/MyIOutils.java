@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 
 /**
- * Created by shanyao on 2018/3/26.
+ * Created by vic on 2018/3/26.
  */
 public class MyIOutils {
     private static final Logger logger = LoggerFactory.getLogger(MyIOutils.class);
