@@ -9,7 +9,7 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
-.classpath
+*/.classpath
 .project
 .MF
 *.iml
@@ -29,4 +29,4 @@ logs/
 .idea/encodings.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/scopes/scope_settings.xml
-/target
+*/target
