@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * Created by 单耀 on 2018/1/27.
+ * vic on 2018/1/27.
  */
 public class ProxyHttpClient extends AbstractHttpClient {
     private static Logger logger = LoggerFactory.getLogger(ProxyHttpClient.class);

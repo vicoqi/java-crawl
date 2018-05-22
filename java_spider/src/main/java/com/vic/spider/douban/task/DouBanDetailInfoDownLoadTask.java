@@ -20,7 +20,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2018/1/28.
+ * vic on 2018/1/28.
  * 电影详细信息下载任务
  */
 public class DouBanDetailInfoDownLoadTask implements Runnable {

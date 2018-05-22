@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 
 /**
- * Created by 单耀 on 2018/1/28.
+ * vic on 2018/1/28.
  * 测试代理任务
  * 测试下载的代理是否可用
  */

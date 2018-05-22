@@ -22,7 +22,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2018/1/28.
+ * vic on 2018/1/28.
  * 下载电影信息列表页面
  */
 public class DouBanInfoListPageTask implements Runnable{

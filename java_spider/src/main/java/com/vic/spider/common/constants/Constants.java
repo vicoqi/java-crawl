@@ -1,7 +1,7 @@
 package com.vic.spider.common.constants;
 
 /**
- * Created by 单耀 on 2018/1/25.
+ * vic on 2018/1/25.
  */
 public class Constants {
     public static final String STANDARD = "standard";

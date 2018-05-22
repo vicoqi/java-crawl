@@ -16,7 +16,7 @@ import java.util.concurrent.DelayQueue;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * Created by 单耀 on 2018/1/27.
+ * vic on 2018/1/27.
  */
 public class ProxyPool {
     //这里也可以简单粗暴的使用sychronized，因为写操作次数远大于读操作，区别并不是特别大

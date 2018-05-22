@@ -13,7 +13,7 @@ import java.util.List;
 
 
 /**
- * Created by 单耀 on 2017/12/5.
+ * vic on 2017/12/5.
  */
 public class XicidailiProxyListParser implements IPageParser<Proxy> {
     public List<Proxy> parser(String html) {

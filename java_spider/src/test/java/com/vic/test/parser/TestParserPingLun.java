@@ -1,9 +1,8 @@
 package com.vic.test.parser;
 
+
 import com.vic.spider.douban.DoubanHttpClient;
-import com.vic.spider.douban.parsers.move.MoveParserPingLun;
 import com.vic.spider.douban.task.DouBanPingLunDownLoadTask;
-import com.vic.spider.douban.task.move.SpiderWithTypeTask;
 import com.vic.spider.proxytool.ProxyHttpClient;
 
 public class TestParserPingLun {
@@ -19,7 +18,7 @@ public class TestParserPingLun {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-//		new Thread(new DouBanPingLunDownLoadTask(URL,true)).start();
+        //爬取3000条评论
         for(int i=0;i<3000;i+=20){
         	try {
                 Thread.sleep(100);
@@ -28,7 +27,6 @@ public class TestParserPingLun {
             }
         	doubanHttpClient.getDownLoadMoveListExector().execute(new DouBanPingLunDownLoadTask(URL+i,true));
         }
-
 	}
 
 }

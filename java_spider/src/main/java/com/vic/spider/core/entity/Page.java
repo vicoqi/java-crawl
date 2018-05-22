@@ -3,7 +3,7 @@ package com.vic.spider.core.entity;
 import com.vic.spider.proxytool.entity.Proxy;
 
 /**
- * Created by 单耀 on 2018/1/27.
+ * vic on 2018/1/27.
  *
  * 用于封装返回页面信息
  */

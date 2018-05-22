@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2018/2/4.
+ * vic on 2018/2/4.
  */
 @Deprecated
 public class MoveListParser implements IPageParser<MoveList> {

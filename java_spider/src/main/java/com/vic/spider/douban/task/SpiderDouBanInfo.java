@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import java.net.URLEncoder;
 
 /**
- * Created by 单耀 on 2018/2/5.
+ * vic on 2018/2/5.
  */
 public class SpiderDouBanInfo implements Runnable {
     public static volatile boolean isContinue = true;

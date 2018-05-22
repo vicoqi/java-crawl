@@ -46,7 +46,7 @@ import java.security.cert.X509Certificate;
 import java.util.Random;
 
 /**
- * Created by 单耀 on 2018/1/25.
+ * vic on 2018/1/25.
  *
  */
 public class HttpClientUtil {

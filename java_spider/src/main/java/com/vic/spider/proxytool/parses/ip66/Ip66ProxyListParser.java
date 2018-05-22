@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2017/12/17.
+ * vic on 2017/12/17.
  */
 public class Ip66ProxyListParser implements IPageParser<Proxy> {
     public List<Proxy> parser(String content) {

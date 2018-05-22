@@ -21,11 +21,11 @@ public class MyBatiesUtils {
         sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
     }
 
-    public static SqlSessionFactory getSqlSessionFactory() {
-        InputStream inputStream = MyBatiesUtils.class.getResourceAsStream("/mybatis-config.xml");
-        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
-        return sqlSessionFactory;
-    }
+//    public static SqlSessionFactory getSqlSessionFactory() {
+//        InputStream inputStream = MyBatiesUtils.class.getResourceAsStream("/mybatis-config.xml");
+//        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+//        return sqlSessionFactory;
+//    }
 
     public static SqlSession getSqlSession(){
         SqlSession session = null;

@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2018/1/27.
+ * vic on 2018/1/27.
  * 下载代理页面代理任务类
  */
 public class ProxyPageTask implements Runnable{

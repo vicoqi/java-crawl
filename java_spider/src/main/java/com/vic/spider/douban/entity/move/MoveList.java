@@ -1,7 +1,7 @@
 package com.vic.spider.douban.entity.move;
 
 /**
- * Created by 单耀 on 2018/2/2.
+ * vic on 2018/2/2.
  */
 public class MoveList {
 

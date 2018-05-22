@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 单耀 on 2017/12/5.
+ * vic on 2017/12/5.
  */
 public class MimiipProxyListParser implements IPageParser<Proxy> {
     public List<Proxy> parser(String hmtl) {

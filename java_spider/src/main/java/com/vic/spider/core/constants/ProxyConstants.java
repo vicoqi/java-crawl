@@ -1,7 +1,7 @@
 package com.vic.spider.core.constants;
 
 /**
- * Created by 单耀 on 2018/1/26.
+ * vic on 2018/1/26.
  */
 public class ProxyConstants {
     public static final String STANDARD = "standard";

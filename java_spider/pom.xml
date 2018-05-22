@@ -92,7 +92,7 @@
 			<version>3.4.4</version>
 		</dependency>
 		
-		 <!--Json-lib-2.4 -->
+		 <!--Json-lib-2.4  所需要依赖的jar-->
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
@@ -119,8 +119,6 @@
   
   <build>
 		<plugins>
-			<!-- 配置加入jetty服务器，开发时我们一般使用jetty服务器 -->
-			
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>

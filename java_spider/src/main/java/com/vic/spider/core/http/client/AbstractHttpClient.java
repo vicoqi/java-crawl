@@ -9,7 +9,7 @@ import org.apache.http.util.EntityUtils;
 import java.io.IOException;
 
 /**
- * Created by 单耀 on 2018/1/27.
+ * vic on 2018/1/27.
  */
 public abstract class AbstractHttpClient {
 
