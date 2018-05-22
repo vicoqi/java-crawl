@@ -11,3 +11,7 @@
 
 #### 三、分析电影的评论 	
 -  通过分词来分析电影的评论，做成词频云图
+
+![image](https://github.com/vicoqi/python_crawl/raw/master/word-cloud/wordcloud2.png)
+
+
